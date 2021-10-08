@@ -1,0 +1,18 @@
+#con{
+    position: relative;
+    margin-top: 30px;
+}
+
+.counter p{
+    top: -16px;
+    left: 16px;
+    position: absolute;
+    font-size: 20px;
+    color: #f00404;
+    margin-left: 5px;
+    font-weight: bold;
+}
+div a i{
+    font-size: 30px;
+    color: #000000;
+}
